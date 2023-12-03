@@ -8,3 +8,27 @@ ui_menu_na_keynodes_for_beginners
 	{
         section_faq
 	};;
+
+section_faq
+=> nrel_main_idtf:
+	[Раздел. Часто задаваемые вопросы]
+	(* <- lang_ru;; *);
+	[Section. FAQ]
+	(* <- lang_en;; *);
+<- atomic_section;
+<- not_enough_formed_structure;
+
+<- rrel_key_sc_element:
+	...
+	(*
+		<= nrel_sc_text_translation:
+			...
+			(*
+				-> rrel_example:
+					"file://html/faq.html"
+					(*
+   			   		<- lang_ru;;
+   			   		=> nrel_format: format_html;;
+   			   		*);;
+			*);;
+	*);;
