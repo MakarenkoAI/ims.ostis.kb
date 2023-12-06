@@ -7,16 +7,14 @@ ims/
     project_IMS_history_and_development_programme // в имсе больше описано
     ostis_tech/
         tools // именно про "подсистемы поддержки" в стандарте не нашла
-        unificated_models/
-            section_subjdomain_of_unified_sc_models
         lib_ostis/
             sectn_lib_of_reusable_comp_ui (нет про библиотеку трансляторов)
             sectn_lib_reusable_comp_kpm - тоже в стандарте нет
             set_of_platforms - нет
-    semantic_network_represent/
-        section_scg_code
-        section_scn_code
-        section_scs_code
+        semantic_network_represent/
+            section_scg_code
+            section_scn_code
+            section_scs_code
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -30,7 +28,7 @@ ims/
             section_sc_code
             section_separators_hedges_used_to_visualize_sc_code_texts
         semantic_network_processing // много нового в имсе есть
-
+        unificated_models // трудно очень, в стандарте ничего про унифицированные модели
     OSTIS_technology // в имсе больше описано
     OSTIS_history_current_state_and_perspectives_of_evolution_and_use // в имсе больше описано
     history_and_current_processes_of_use_IMS // в имсе больше описано
